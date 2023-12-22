@@ -1,6 +1,6 @@
 # flask_deployement
 
-# 🚀 Task 1: First-time Deployment Success!
+# First-time Deployment Success!
 
 Embarked on my deployment journey, guided by this insightful [video](https://www.youtube.com/watch?v=pg11wmj8LbY). 
 
