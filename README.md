@@ -1,33 +1,36 @@
 # flask_deployement
 
-# Task 1
+# 🚀 Task 1: First-time Deployment Success!
 
-Successfully deployed my project for the first time with the guidance from this [video](https://www.youtube.com/watch?v=pg11wmj8LbY). Check out the deployed [service](https://trying-to-deploy.onrender.com/) and the corresponding [GitHub repository](https://trying-to-deploy.onrender.com/).
+Embarked on my deployment journey, guided by this insightful [video](https://www.youtube.com/watch?v=pg11wmj8LbY). 
 
-## Procedure
+Check out the live [service](https://trying-to-deploy.onrender.com/) and explore the magic in the [GitHub repo](https://github.com/gundeeps247/flask_deployement).
 
-1. Create a GitHub repository.
+## 🛠 Procedure
 
-2. Open your preferred code editor.
+1. **Create a GitHub Repository**
+   Start your journey by creating a brand new GitHub repository.
 
-3. Create a `requirements.txt` file, including Flask and Gunicorn.
+2. **Fire Up the Code Editor**
+   Open your favorite code editor and get ready to bring your project to life.
 
-4. Copy the code from this [link](https://www.geeksforgeeks.org/flask-creating-first-simple-application/).
+3. **Dependencies Matter: requirements.txt**
+   Set the stage by creating a `requirements.txt` file, featuring the powerful duo - Flask and Gunicorn.
 
-5. Avoid pasting the following lines:
+4. **Let's Code: app.py**
+   Give life to your project by creating a file named `app.py`. Exciting times ahead!
 
-    ```python
-    if __name__ == '__main__':
-        app.run()
-    ```
+5. **Paste the Magic Code**
+   Infuse your project with life by copying the enchanting code from this [link](https://github.com/gundeeps247/flask_deployement/blob/main/app.py).
 
-6. Push the changes to GitHub.
+6. **Push to GitHub**
+   Share the magic with the world! Push your code to GitHub and let others marvel at your creation.
 
-7. Connect the repository to Render.
+7. **Connect to Render**
+   Forge a connection between your repository and Render, unleashing the full potential of your creation.
 
-8. Set the build command to:
+8. **Build Command Brilliance on Render**
+   On Render, set the build command to:
 
-    ```
-    gunicorn app:app
-    ```
-
+   ```bash
+   gunicorn app:app
